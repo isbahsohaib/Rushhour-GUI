@@ -1,0 +1,12 @@
+hello
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+hi
+=======
+Shobhit Sharma ss9649@g.rit.edu
+>>>>>>> cdd40707c7007aa6428d5424177088290f1f06e0
+=======
+
+hello
+>>>>>>> 74badbac4df540eef09868955ddb0f12c1442457
